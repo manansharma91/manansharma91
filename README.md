@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @manansharma91
+- 👀 I’m interested in ML and API Development
+- 🌱 I’m currently learning Python and JavaScript
